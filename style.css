@@ -149,7 +149,7 @@ footer li a:hover {
     background-color: #468486;
 }
  
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 700px) {
     .btn {
         display: block;
         font-size: 1.125rem;
